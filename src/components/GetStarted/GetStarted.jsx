@@ -7,7 +7,7 @@ const GetStarted = ()=>{
     <section class="g-wrapper">
         <div className="paddings innerWidth g-container">
             <div className="flexColCenter inner-container">
-                <span className="primaryText">Get Started with <span className="code-craft">code<span>Craft &copy;</span> </span></span>
+                <span className="primaryText">Get Started with <span className="code-craft">code<span>Craft&copy;</span> </span></span>
                 <span className="secondaryText">Lorem ipsum dolor sit, esse natus asperiores pariatur repellendus vo. Eveniet, voluptates ad.
                     <br/> Find your residence soon
                 </span>

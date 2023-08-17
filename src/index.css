@@ -95,7 +95,8 @@ a {
 
 .smallText{
   color : rgb(140 139 139);
-  font-size: 0.5rem;
+  font-size: 0.6rem !important;
+  margin: 5px;
 }
 .orangeText {
   color: orange;

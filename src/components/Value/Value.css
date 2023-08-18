@@ -46,6 +46,32 @@
     fill : var(--green)
 }
 
-.accordionButton .primaryText{
-    font-size: 1.1rem;
+
+
+@media (max-width : 1024px) {
+
+    .v-container{
+
+        flex-direction: column;
+    }
+
+    @media (max-width : 768px){
+        .accordionButtons {
+            font-size: 0.5rem;
+        }
+    }
+
+    .accordionButtons .primaryText{
+        font-size: 0.8rem;
+    }
+
+    .icon{
+        padding: 5px;
+        background:#eeeeff; 
+        border-radius: 5px;
+        
+    }
+
+
+    
 }

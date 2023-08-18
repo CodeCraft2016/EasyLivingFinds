@@ -138,6 +138,21 @@ a {
   .paddings {
     padding: 4rem;
   }
+  .primaryText {
+    color: #1f3e72;
+    font-weight: bold;
+    font-size: 0.8rem;
+    
+  }
+  .orangeText {
+    font-size: 1.2rem;
+  }
+
+  .greenText{
+    color: var(--green);
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
 }
 
 @media (min-width: 1280px), (min-width: 768px) {
@@ -146,11 +161,3 @@ a {
   }
 }
 
-@media (max-width: 640px) {
-  .primaryText {
-    font-size: 1.5rem;
-  }
-  .orangeText {
-    font-size: 1.2rem;
-  }
-}
